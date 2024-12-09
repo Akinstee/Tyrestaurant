@@ -10,3 +10,19 @@ body{
     background-color: #fff0dd;
     padding: 0px 10vw;
 }
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.order-now-button{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    border-radius: 100px;
+    padding: 20px 0px;
+    cursor: pointer;
+}

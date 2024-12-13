@@ -26,3 +26,8 @@ body{
     padding: 20px 0px;
     cursor: pointer;
 }
+
+a{
+    all: unset;
+    cursor: pointer;
+}
